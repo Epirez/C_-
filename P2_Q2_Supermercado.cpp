@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-2. (Valor 4.0) Um supermercado vende seus produtos dos
+2.Um supermercado vende seus produtos dos
 tipos Limpeza, Alimentos e Bebidas. Uma pessoa realiza a
 compra de 8 produtos. Calcule e mostre:
 • Quanto a pessoa gastou com cada tipo de produto
